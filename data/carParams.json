@@ -1,0 +1,11 @@
+{
+  "brands": ["Toyota", "Tesla", "Lada"],
+  "models": {
+    "Toyota": ["Camry", "Corolla", "RAV4"],
+    "Tesla": ["Model S", "Model 3", "Model X"],
+    "Lada": ["Vesta", "Granta"]
+  },
+  "colors": ["White", "Black", "Red"],
+  "engineTypes": ["Gasoline", "Diesel", "Electric"],
+  "transmissions": ["Automatic", "Manual", "Robotized"]
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "passwordHash": "$2a$10$QJbN7udYFfQGNt3JdpJx1Ot5/oxRDJXMR0NDGoxYAdhey9CLeBGVm"
+  }
+]
