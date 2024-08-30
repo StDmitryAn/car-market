@@ -2,7 +2,7 @@
 
 This is a Next.js application for managing and viewing a car market. The application allows users to add, filter, and sort cars. 
 
-## Developing time
+## Development time
  ~10 hours
 
 ## Features
