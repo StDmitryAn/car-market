@@ -58,7 +58,7 @@ yarn dev
 Your application will be running on http://localhost:3000.
 
 ### 4. Access the Application
-Open your web browser and navigate to http://localhost:3000 to view the application. You can sign in using the credentials specified in your environment or add your own users.
+Open your web browser and navigate to http://localhost:3000 to view the application. You can sign in using the credentials (email: johndoe@example.com password: password123) or add your own users.
 
 ### 5. Adding and Viewing Cars
 Use the "Add New Car" button to add cars to the listing.
