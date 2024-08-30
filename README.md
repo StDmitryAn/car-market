@@ -28,27 +28,32 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/StDmitryAn/car-market.git
 cd car-market
+```
 
 ### 2. Install Dependencies
 Install the necessary dependencies by running:
 
 ```bash
 npm install
+```
 
 or if you're using Yarn:
 
 ```bash
 yarn install
+```
 
 ### 3. Run the Application
 
 ```bash
 npm run dev
+```
 
 or with Yarn:
 
 ```bash
 yarn dev
+```
 
 Your application will be running on http://localhost:3000.
 
